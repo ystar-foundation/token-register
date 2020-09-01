@@ -1,2 +1,3 @@
-# token-register
-token register contract on yotta chain
+# TokenRegister
+
+token注册合约
